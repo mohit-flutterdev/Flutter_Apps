@@ -14,7 +14,7 @@ class MainApp extends StatelessWidget {
       title:"Assignment11",
       home:Scaffold(
         appBar:AppBar(
-          title:const Text("Assignmnent11"),
+          title:const Text("Assignment11"),
           centerTitle:true,
         ),
 
